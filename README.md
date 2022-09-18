@@ -9,7 +9,7 @@ This Study Guide was created for boot camp students who were going through Prewo
 
 N/A
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+
 
 ## Usage
 
